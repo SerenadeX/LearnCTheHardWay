@@ -1,5 +1,5 @@
 CFLAGS=-Wall -g
-EXERCISE=15
+EXERCISE=16
 default:
 	gcc src/ex${EXERCISE}.c -o bin/ex${EXERCISE}
 
